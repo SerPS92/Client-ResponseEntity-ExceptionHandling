@@ -1,6 +1,7 @@
 Pet Management Client
-This repository contains a client application developed to interact with the Pet Management Microservice. 
-The client utilizes Spring RestTemplate to communicate with the microservice's API endpoints.
+This repository hosts a client application designed to interact with the Pet Management Microservice. 
+The client leverages Spring RestTemplate for communication with the microservice's API endpoints, including the delivery of credentials.
+
 
 Features:
 Retrieve Pets: Fetch the list of all pets from the microservice.
